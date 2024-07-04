@@ -25,16 +25,19 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
 
-      - name: Install zip
-        run: apt install -y zip
-
       - name: Install dependencies
         run: npm install
 
       - name: Create module zip
-        run: zip -r modules-${{ matrix.os }}.zip node_modules/
+        uses: thedoctor0/zip-release@0.7.5
+        with:
+          type: 'zip'
+          filename: "release-${{ matrix.os }}.zip"
+          exclusions: '*.git*'
 
-
-
-
-      
+      - name: Upload Release
+        uses: ncipollo/release-action@v1.12.0
+        with:
+          artifacts: "release-${{ matrix.os }}.zip"
+          token: ${{ secrets.GITHUB_TOKEN }}
+        
