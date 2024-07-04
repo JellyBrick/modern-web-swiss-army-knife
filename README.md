@@ -1,4 +1,9 @@
 # modern-web-swiss-knife
+
+## 요약
+
+라이브러리 하나로 모던 웹 99% 만들기
+
 - `@chakra-ui/react`: Chakra UI
 - `@chromatic-com/storybook`: Storybook Util
 - `@dotenvx/dotenvx`: `.env` reader
