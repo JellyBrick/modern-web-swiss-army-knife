@@ -1,0 +1,40 @@
+ name: Build Modules
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+
+env:
+  NODE_VERSION: "20.x"
+
+jobs:
+  build:
+    name: Build Modules
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: true
+      matrix:
+        os: [ macos-latest, ubuntu-latest, windows-latest ]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup NodeJS
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+
+      - name: Install zip
+        run: apt install -y zip
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Create module zip
+        run: zip -r modules-${{ matrix.os }}.zip node_modules/
+
+
+
+
+      
