@@ -21,7 +21,7 @@
   "homepage": "https://github.com/JellyBrick/node-module-importer#readme",
   "devDependencies": {
     "@chakra-ui/react": "2.8.2",
-    "@chromatic-com/storybook": "1.6.0",
+    "@chromatic-com/storybook": "1.6.1",
     "@dotenvx/dotenvx": "1.5.0",
     "@egjs/axes": "3.9.0",
     "@egjs/conveyer": "1.7.1",
