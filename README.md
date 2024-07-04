@@ -1,4 +1,4 @@
-# node-module-importer
+# modern-web-swiss-knife
 - `@chakra-ui/react`: Chakra UI
 - `@chromatic-com/storybook`: Storybook Util
 - `@dotenvx/dotenvx`: `.env` reader
