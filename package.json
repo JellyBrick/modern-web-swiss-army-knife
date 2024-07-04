@@ -1,0 +1,22 @@
+{
+  "name": "module-importer",
+  "version": "1.0.0",
+  "description": "Module importer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JellyBrick/node-module-importer.git"
+  },
+  "keywords": [
+    "module"
+  ],
+  "author": "JellyBrick <shlee1503@naver.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/JellyBrick/node-module-importer/issues"
+  },
+  "homepage": "https://github.com/JellyBrick/node-module-importer#readme"
+}
