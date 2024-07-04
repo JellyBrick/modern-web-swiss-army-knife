@@ -1,9 +1,9 @@
 name: Build Modules
 
-on:
+on: 
   push:
-    branches: [ main ]
-  pull_request:
+    tags:
+    - '*'
 
 env:
   NODE_VERSION: "20.x"
