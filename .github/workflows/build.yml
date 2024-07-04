@@ -1,9 +1,8 @@
 name: Build Modules
 
-on: 
+on:
   push:
-    tags:
-    - '*'
+    branches: [ main ]
 
 env:
   NODE_VERSION: "20.x"
@@ -40,4 +39,6 @@ jobs:
         with:
           artifacts: "release-${{ matrix.os }}.zip"
           token: ${{ secrets.GITHUB_TOKEN }}
-        
+          allowUpdates: true
+          replacesArtifacts: true
+          commit: true
