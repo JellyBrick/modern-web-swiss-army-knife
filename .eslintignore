@@ -1,0 +1,9 @@
+.eslintrc.js
+postcss.config.js
+tailwind.config.js
+*.config.ts
+*.config.js
+*.config.cjs
+*.config.mjs
+*.config.cts
+*.config.mts
