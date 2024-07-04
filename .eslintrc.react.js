@@ -6,9 +6,9 @@ module.exports = {
     'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
     'plugin:@typescript-eslint/recommended-requiring-type-checking',
-    'plugin:solid/typescript',
+    'plugin:react-hooks/recommended',
   ],
-  plugins: ['@typescript-eslint', 'import', 'solid'],
+  plugins: ['prettier', '@typescript-eslint', 'import', 'react-refresh'],
   parser: '@typescript-eslint/parser',
   parserOptions: {
     project: './tsconfig.json',
@@ -36,7 +36,6 @@ module.exports = {
       }
     ],
     'import/prefer-default-export': 'off',
-    'solid/style-prop': ['error', { allowString: true }],
     'camelcase': ['error', { properties: 'never', allow: ['^LEGACY_'] }],
     'class-methods-use-this': 'off',
     'lines-around-comment': [
@@ -60,8 +59,17 @@ module.exports = {
       allowTemplateLiterals: false,
     }],
     'quote-props': ['error', 'consistent'],
+
+    // React specific rules
+    'react-refresh/only-export-components': [
+      'warn',
+      { allowConstantExport: true },
+    ],
+    'react-hooks/exhaustive-deps': ['warn', {
+      additionalHooks: '(useAtom|useSetAtom|useEffectEvent)',
+    }],
   },
-  ignorePatterns: ['dist', 'node_modules'],
+  ignorePatterns: ['dist', '.eslintrc.cjs', '*.config.js', '*.config.ts', 'node_modules'],
   settings: {
     'import/parsers': {
       '@typescript-eslint/parser': ['.ts', '.tsx']
@@ -71,5 +79,5 @@ module.exports = {
         project: './tsconfig.json',
       },
     },
-  }
+  },
 };
