@@ -1,14 +1,14 @@
 {
-  "name": "module-importer",
-  "version": "1.0.0",
-  "description": "Module importer",
+  "name": "modern-web-swiss-army-knife",
+  "version": "1.1.0",
+  "description": "Swiss army knife for modern web development",
   "main": "index.js",
   "scripts": {
     "test": "node index"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JellyBrick/node-module-importer.git"
+    "url": "git+https://github.com/JellyBrick/modern-web-swiss-army-knife.git"
   },
   "keywords": [
     "module"
@@ -16,9 +16,9 @@
   "author": "JellyBrick <shlee1503@naver.com>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/JellyBrick/node-module-importer/issues"
+    "url": "https://github.com/JellyBrick/modern-web-swiss-army-knife/issues"
   },
-  "homepage": "https://github.com/JellyBrick/node-module-importer#readme",
+  "homepage": "https://github.com/JellyBrick/modern-web-swiss-army-knife#readme",
   "devDependencies": {
     "@chakra-ui/react": "2.8.2",
     "@chromatic-com/storybook": "1.6.1",
@@ -40,6 +40,9 @@
     "@floating-ui/react": "0.26.19",
     "@fluentui/react": "8.119.0",
     "@fluentui/react-components": "9.54.4",
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@headlessui/react": "2.1.1",
     "@hocuspocus/extension-database": "2.13.5",
     "@hocuspocus/extension-logger": "2.13.5",
