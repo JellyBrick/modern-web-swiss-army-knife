@@ -1,6 +1,6 @@
 {
   "name": "modern-web-swiss-army-knife",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Swiss army knife for modern web development",
   "main": "index.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "url": "https://github.com/JellyBrick/modern-web-swiss-army-knife/issues"
   },
   "homepage": "https://github.com/JellyBrick/modern-web-swiss-army-knife#readme",
-  "devDependencies": {
+  "dependencies": {
     "@chakra-ui/react": "2.8.2",
     "@chromatic-com/storybook": "1.6.1",
     "@dotenvx/dotenvx": "1.5.0",
