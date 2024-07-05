@@ -80,6 +80,8 @@
     "@mui/x-data-grid": "7.8.0",
     "@mui/x-date-pickers": "7.8.0",
     "@mui/x-tree-view": "7.8.0",
+    "@noonnu/gmarket-sans-medium": "^0.1.0",
+    "@noonnu/suit-regular": "^0.1.0",
     "@radix-ui/react-accordion": "1.2.0",
     "@radix-ui/react-alert-dialog": "1.1.1",
     "@radix-ui/react-aspect-ratio": "1.1.0",
