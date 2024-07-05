@@ -10,6 +10,7 @@
   - 패키지 호이스팅을 가정하고 만들어진 라이브러리입니다. (의도적인 ghost-deps)
   - pnpm에서는 정상 동작하지 않습니다. (별도의 설정이 필요합니다)
 
+## 라이브러리 설명
 
 - `@chakra-ui/react`: Chakra UI
 - `@chromatic-com/storybook`: Storybook Util
