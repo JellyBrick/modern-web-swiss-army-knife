@@ -4,6 +4,13 @@
 
 라이브러리 하나로 모던 웹 99% 만들기
 
+### 주의사항
+
+ - npm 및 yarn legacy 환경에서만 동작합니다.
+  - 패키지 호이스팅을 가정하고 만들어진 라이브러리입니다. (의도적인 ghost-deps)
+  - pnpm에서는 정상 동작하지 않습니다. (별도의 설정이 필요합니다)
+
+
 - `@chakra-ui/react`: Chakra UI
 - `@chromatic-com/storybook`: Storybook Util
 - `@dotenvx/dotenvx`: `.env` reader
