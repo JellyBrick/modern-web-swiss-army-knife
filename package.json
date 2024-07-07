@@ -58,7 +58,7 @@
     "@hono/swagger-ui": "0.3.0",
     "@hono/trpc-server": "0.3.2",
     "@hono/typia-validator": "0.0.5",
-    "@hono/zod-openapi": "0.14.7",
+    "@hono/zod-openapi": "0.14.8",
     "@hono/zod-validator": "0.2.2",
     "@hookform/resolvers": "3.8.0",
     "@linaria/core": "6.2.0",
