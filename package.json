@@ -259,7 +259,7 @@
     "embla-carousel-react": "8.1.6",
     "emotion-solid": "2.1.0",
     "es-hangul": "1.4.2",
-    "es-toolkit": "1.8.0",
+    "es-toolkit": "1.13.1",
     "esbuild": "0.23.0",
     "eslint": "8.57.0",
     "eslint-import-resolver-typescript": "3.6.1",
