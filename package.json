@@ -372,7 +372,7 @@
     "vite-plugin-solid-svg": "0.8.1",
     "vite-plugin-static-copy": "1.0.6",
     "vite-plugin-svgr": "4.2.0",
-    "vitest": "1.6.0",
+    "vitest": "2.0.4",
     "wouter": "3.3.1",
     "y-prosemirror": "1.2.9",
     "zod": "3.23.8",
