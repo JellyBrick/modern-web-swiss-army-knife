@@ -235,7 +235,7 @@
     "@vitejs/plugin-legacy": "5.4.1",
     "@vitejs/plugin-react": "4.3.1",
     "@vitejs/plugin-react-swc": "3.7.0",
-    "@wyw-in-js/babel-preset": "0.5.3",
+    "@wyw-in-js/babel-preset": "0.5.4",
     "@wyw-in-js/vite": "0.5.3",
     "allotment": "1.20.2",
     "antd": "5.19.1",
