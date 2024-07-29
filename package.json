@@ -244,7 +244,7 @@
     "autosuggest-highlight": "3.3.4",
     "axios": "1.7.2",
     "babel-preset-react": "6.24.1",
-    "babel-preset-solid": "1.8.18",
+    "babel-preset-solid": "1.8.19",
     "builtin-modules": "4.0.0",
     "class-variance-authority": "0.7.0",
     "clsx": "2.1.1",
