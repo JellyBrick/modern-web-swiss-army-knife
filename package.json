@@ -333,7 +333,7 @@
     "rollup": "4.19.1",
     "rollup-plugin-dts": "6.1.1",
     "rooks": "7.14.1",
-    "semver": "7.6.2",
+    "semver": "7.6.3",
     "serve": "14.2.3",
     "solid-floating-ui": "0.3.1",
     "solid-icons": "1.1.0",
