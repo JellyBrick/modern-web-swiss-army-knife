@@ -351,7 +351,7 @@
     "tailwindcss": "3.4.7",
     "tailwindcss-animate": "1.0.7",
     "tailwindcss-classnames": "3.1.0",
-    "terser": "5.31.1",
+    "terser": "5.31.3",
     "three": "0.166.1",
     "ts-pattern": "5.2.0",
     "ts-regex-builder": "1.7.1",
