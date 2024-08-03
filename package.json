@@ -277,7 +277,7 @@
     "hono-rate-limiter": "0.4.0",
     "immutable": "4.3.7",
     "input-otp": "1.2.4",
-    "jotai": "2.8.4",
+    "jotai": "2.9.1",
     "jotai-cache": "0.5.0",
     "jsonwebtoken": "9.0.2",
     "lightningcss": "1.25.1",
