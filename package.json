@@ -255,7 +255,7 @@
     "d3-array": "3.2.4",
     "date-fns": "3.6.0",
     "dayjs": "1.11.12",
-    "deepmerge-ts": "7.0.3",
+    "deepmerge-ts": "7.1.0",
     "embla-carousel-react": "8.1.8",
     "emotion-solid": "2.1.0",
     "es-hangul": "1.4.6",
