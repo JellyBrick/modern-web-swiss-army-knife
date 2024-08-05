@@ -374,7 +374,7 @@
     "vite-plugin-svgr": "4.2.0",
     "vitest": "2.0.5",
     "wouter": "3.3.1",
-    "y-prosemirror": "1.2.9",
+    "y-prosemirror": "1.2.11",
     "zod": "3.23.8",
     "zustand": "4.5.4"
   }
