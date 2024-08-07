@@ -1,6 +1,6 @@
 {
   "name": "modern-web-swiss-army-knife",
-  "version": "1.3.2",
+  "version": "1.4.0",
   "description": "Swiss army knife for modern web development",
   "main": "index.js",
   "scripts": {
