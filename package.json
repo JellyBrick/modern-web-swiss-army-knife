@@ -193,7 +193,7 @@
     "@svgr/plugin-svgo": "8.1.0",
     "@swc/cli": "0.4.0",
     "@swc/core": "1.7.6",
-    "@swc/plugin-emotion": "3.0.10",
+    "@swc/plugin-emotion": "3.0.12",
     "@tabler/icons-solidjs": "3.11.0",
     "@tailwindcss/typography": "0.5.13",
     "@tanstack/react-query": "5.51.21",
