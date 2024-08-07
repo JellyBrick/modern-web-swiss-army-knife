@@ -39,7 +39,7 @@
     "@emotion/css": "11.13.0",
     "@emotion/react": "11.13.0",
     "@emotion/styled": "11.13.0",
-    "@floating-ui/core": "1.6.5",
+    "@floating-ui/core": "1.6.7",
     "@floating-ui/dom": "1.6.8",
     "@floating-ui/react": "0.26.20",
     "@fluentui/react": "8.120.2",
