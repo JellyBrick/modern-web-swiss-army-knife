@@ -36,7 +36,7 @@ jobs:
 
       - name: Download tarball
         if: matrix.os == 'ubuntu-24.04'
-        run: download-tgz package-lock --directory tarballs package-lock.json
+        run: download-tgz package-json --directory tarballs package.json && download-tgz package-lock --directory tarballs package-lock.json
 
       - name: Create module zip
         uses: thedoctor0/zip-release@0.7.6
