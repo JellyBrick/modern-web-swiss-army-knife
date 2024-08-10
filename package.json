@@ -26,7 +26,7 @@
     "@babel/cli": "7.24.8",
     "@chakra-ui/react": "2.8.2",
     "@chromatic-com/storybook": "1.6.1",
-    "@dotenvx/dotenvx": "1.6.4",
+    "@dotenvx/dotenvx": "1.7.0",
     "@egjs/axes": "3.9.1",
     "@egjs/conveyer": "1.7.1",
     "@egjs/grid": "1.16.0",
