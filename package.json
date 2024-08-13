@@ -314,7 +314,7 @@
     "prosemirror-markdown": "1.13.0",
     "prosemirror-model": "1.22.3",
     "prosemirror-transform": "1.9.0",
-    "prosemirror-view": "1.33.9",
+    "prosemirror-view": "1.33.10",
     "react": "18.3.1",
     "react-day-picker": "9.0.8",
     "react-dom": "18.3.1",
