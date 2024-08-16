@@ -197,7 +197,7 @@
     "@tabler/icons-solidjs": "3.12.0",
     "@tailwindcss/typography": "0.5.14",
     "@tanstack/react-query": "5.51.23",
-    "@tanstack/react-virtual": "3.8.6",
+    "@tanstack/react-virtual": "3.9.0",
     "@tanstack/solid-query": "5.51.21",
     "@tanstack/solid-virtual": "3.8.6",
     "@tiptap/extension-collaboration": "2.5.9",
