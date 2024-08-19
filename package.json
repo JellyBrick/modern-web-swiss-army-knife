@@ -242,7 +242,7 @@
     "@wyw-in-js/babel-preset": "0.5.4",
     "@wyw-in-js/vite": "0.5.4",
     "allotment": "1.20.2",
-    "antd": "5.20.1",
+    "antd": "5.20.2",
     "atropos": "2.0.2",
     "autoprefixer": "10.4.20",
     "autosuggest-highlight": "3.3.4",
