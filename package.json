@@ -1,6 +1,6 @@
 {
   "name": "modern-web-swiss-army-knife",
-  "version": "1.5.1",
+  "version": "1.6.0",
   "description": "Swiss army knife for modern web development",
   "main": "index.js",
   "scripts": {
@@ -255,6 +255,7 @@
     "cmdk": "1.0.0",
     "color": "4.2.3",
     "concurrently": "8.2.2",
+    "create-vite": "5.5.2",
     "d3": "7.9.0",
     "d3-array": "3.2.4",
     "date-fns": "3.6.0",
