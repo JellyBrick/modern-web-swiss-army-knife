@@ -222,7 +222,7 @@
     "@types/react-dom": "18.3.0",
     "@types/regenerator-runtime": "0.13.6",
     "@types/stylis": "4.2.6",
-    "@types/three": "0.167.1",
+    "@types/three": "0.167.2",
     "@types/turndown": "5.0.5",
     "@types/uuid": "10.0.0",
     "@typescript-eslint/eslint-plugin": "8.2.0",
