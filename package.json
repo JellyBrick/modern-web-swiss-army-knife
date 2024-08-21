@@ -271,7 +271,7 @@
     "eslint-plugin-import": "2.29.1",
     "eslint-plugin-prettier": "5.2.1",
     "eslint-plugin-react-hooks": "4.6.2",
-    "eslint-plugin-react-refresh": "0.4.9",
+    "eslint-plugin-react-refresh": "0.4.10",
     "eslint-plugin-solid": "0.14.2",
     "fast-average-color": "9.4.0",
     "fast-glob": "3.3.2",
