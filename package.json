@@ -188,7 +188,7 @@
     "@storybook/react-vite": "8.2.9",
     "@storybook/test": "8.2.9",
     "@styled/typescript-styled-plugin": "1.0.1",
-    "@suid/icons-material": "0.7.0",
+    "@suid/icons-material": "0.8.0",
     "@suid/material": "0.17.0",
     "@suid/vite-plugin": "0.3.0",
     "@suspensive/react": "2.14.0",
