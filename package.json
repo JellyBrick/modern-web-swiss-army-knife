@@ -39,7 +39,7 @@
     "@emotion/babel-plugin": "11.12.0",
     "@emotion/babel-preset-css-prop": "11.12.0",
     "@emotion/css": "11.13.0",
-    "@emotion/react": "11.13.0",
+    "@emotion/react": "11.13.3",
     "@emotion/styled": "11.13.0",
     "@felte/react": "1.2.13",
     "@felte/solid": "1.2.13",
