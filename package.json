@@ -437,7 +437,7 @@
     "vite-plugin-static-copy": "1.0.6",
     "vite-plugin-svgr": "4.2.0",
     "vitest": "2.0.5",
-    "wouter": "3.3.1",
+    "wouter": "3.3.3",
     "y-prosemirror": "1.2.12",
     "zod": "3.23.8",
     "zustand": "4.5.5"
