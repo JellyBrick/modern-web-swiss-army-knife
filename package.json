@@ -223,7 +223,7 @@
     "@tanstack/react-virtual": "3.10.4",
     "@tanstack/solid-query": "5.52.0",
     "@tanstack/solid-table": "8.20.1",
-    "@tanstack/solid-virtual": "3.10.2",
+    "@tanstack/solid-virtual": "3.10.4",
     "@thisbeyond/solid-select": "0.15.0",
     "@tiptap/extension-collaboration": "2.6.6",
     "@tiptap/extension-collaboration-cursor": "2.6.6",
