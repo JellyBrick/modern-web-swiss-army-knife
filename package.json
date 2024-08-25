@@ -69,7 +69,7 @@
     "@hono/swagger-ui": "0.4.1",
     "@hono/trpc-server": "0.3.2",
     "@hono/typia-validator": "0.0.5",
-    "@hono/zod-openapi": "0.15.3",
+    "@hono/zod-openapi": "0.16.0",
     "@hono/zod-validator": "0.2.2",
     "@hookform/resolvers": "3.9.0",
     "@jellybrick/solid-i18next": "1.2.2",
