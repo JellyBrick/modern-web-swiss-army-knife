@@ -66,7 +66,7 @@
     "@hocuspocus/transformer": "2.13.5",
     "@hono/node-server": "1.12.1",
     "@hono/node-ws": "1.0.4",
-    "@hono/swagger-ui": "0.4.0",
+    "@hono/swagger-ui": "0.4.1",
     "@hono/trpc-server": "0.3.2",
     "@hono/typia-validator": "0.0.5",
     "@hono/zod-openapi": "0.15.3",
