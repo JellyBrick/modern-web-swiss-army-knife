@@ -109,6 +109,7 @@
     "@openapi-codegen/typescript": "8.0.2",
     "@openapi-qraft/react": "1.14.0",
     "@pdfslick/core": "1.5.1",
+    "@preact/signals-react": "2.2.0",
     "@radix-ui/react-accordion": "1.2.0",
     "@radix-ui/react-alert-dialog": "1.1.1",
     "@radix-ui/react-aspect-ratio": "1.1.0",
