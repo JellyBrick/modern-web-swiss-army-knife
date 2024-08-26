@@ -414,7 +414,7 @@
     "reflect-metadata": "0.2.2",
     "regenerator-runtime": "0.14.1",
     "remark-gfm": "4.0.0",
-    "rollup": "4.21.0",
+    "rollup": "4.21.1",
     "rollup-plugin-dts": "6.1.1",
     "rooks": "7.14.1",
     "semver": "7.6.3",
