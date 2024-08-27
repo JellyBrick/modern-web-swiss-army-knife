@@ -299,7 +299,7 @@
     "axios": "1.7.5",
     "babel-plugin-solid-undestructure": "1.1.0",
     "babel-preset-react": "6.24.1",
-    "babel-preset-solid": "1.8.19",
+    "babel-preset-solid": "1.8.22",
     "builtin-modules": "4.0.0",
     "class-variance-authority": "0.7.0",
     "classy-solid": "0.3.7",
