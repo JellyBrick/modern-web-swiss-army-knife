@@ -224,7 +224,7 @@
     "@tanstack/react-router": "1.50.1",
     "@tanstack/react-table": "8.20.5",
     "@tanstack/react-virtual": "3.10.5",
-    "@tanstack/solid-form": "0.29.2",
+    "@tanstack/solid-form": "0.30.0",
     "@tanstack/solid-query": "5.52.2",
     "@tanstack/solid-table": "8.20.5",
     "@tanstack/solid-virtual": "3.10.5",
