@@ -215,7 +215,7 @@
     "@storybook/react": "8.2.9",
     "@storybook/react-vite": "8.2.9",
     "@storybook/test": "8.2.9",
-    "@storybook/testing-library": "0.2.1",
+    "@storybook/testing-library": "0.2.2",
     "@storybook/types": "8.2.9",
     "@styled/typescript-styled-plugin": "1.0.1",
     "@suid/icons-material": "0.8.0",
