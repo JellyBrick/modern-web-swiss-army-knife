@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/JellyBrick/modern-web-swiss-army-knife#readme",
   "overrides": {
-    "pdfjs-dist": "4.5.136"
+    "pdfjs-dist": "4.6.82"
   },
   "dependencies": {
     "@7nohe/openapi-react-query-codegen": "1.6.0",
@@ -389,7 +389,7 @@
     "overlayscrollbars-solid": "0.5.5",
     "patch-package": "8.0.0",
     "path-browserify": "1.0.1",
-    "pdfjs-dist": "4.5.136",
+    "pdfjs-dist": "4.6.82",
     "peerjs": "1.5.4",
     "pnpm": "9.9.0",
     "postcss": "8.4.42",
