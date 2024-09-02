@@ -367,7 +367,7 @@
     "jquery": "3.7.1",
     "js-draw": "1.20.3",
     "jsonwebtoken": "9.0.2",
-    "ky": "1.7.1",
+    "ky": "1.7.2",
     "ky-universal": "0.12.0",
     "lightningcss": "1.26.0",
     "lodash": "4.17.21",
