@@ -394,7 +394,7 @@
     "pdfjs-dist": "4.6.82",
     "peerjs": "1.5.4",
     "pnpm": "9.9.0",
-    "postcss": "8.4.43",
+    "postcss": "8.4.44",
     "postcss-loader": "8.1.1",
     "postcss-preset-mantine": "1.17.0",
     "postcss-simple-vars": "7.0.1",
