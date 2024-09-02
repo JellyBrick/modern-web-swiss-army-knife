@@ -498,6 +498,7 @@
     "unfetch": "5.0.0",
     "uuid": "10.0.0",
     "vaul": "0.9.1",
+    "virtua": "0.34.2",
     "vite": "5.4.2",
     "vite-plugin-dts": "^4.0.0-beta.2",
     "vite-plugin-legacy-swc": "1.2.1",
