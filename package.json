@@ -346,7 +346,7 @@
     "eslint-plugin-storybook": "0.8.0",
     "fast-average-color": "9.4.0",
     "fast-glob": "3.3.2",
-    "fast-xml-parser": "4.4.1",
+    "fast-xml-parser": "4.5.0",
     "fluentui-emoji": "1.1.1",
     "formik": "2.4.6",
     "formik-antd": "3.0.0-beta.12",
