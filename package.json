@@ -236,7 +236,7 @@
     "@tanstack/react-router": "1.52.5",
     "@tanstack/react-router-with-query": "1.52.5",
     "@tanstack/react-table": "8.20.5",
-    "@tanstack/react-virtual": "3.10.6",
+    "@tanstack/react-virtual": "3.10.7",
     "@tanstack/router-devtools": "1.52.5",
     "@tanstack/router-zod-adapter": "1.52.5",
     "@tanstack/solid-form": "0.30.0",
