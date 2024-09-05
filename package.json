@@ -61,7 +61,7 @@
     "@fortawesome/react-fontawesome": "0.2.2",
     "@headlessui/react": "2.1.5",
     "@heroicons/react": "2.1.5",
-    "@hey-api/openapi-ts": "0.52.11",
+    "@hey-api/openapi-ts": "0.53.0",
     "@hocuspocus/extension-database": "2.13.5",
     "@hocuspocus/extension-logger": "2.13.5",
     "@hocuspocus/provider": "2.13.5",
