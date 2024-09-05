@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/JellyBrick/modern-web-swiss-army-knife#readme",
   "overrides": {
-    "electron": "32.0.1",
+    "electron": "32.0.2",
     "pdfjs-dist": "4.6.82"
   },
   "dependencies": {
@@ -333,7 +333,7 @@
     "dayjs": "1.11.13",
     "deepmerge-ts": "7.1.0",
     "del-cli": "5.1.0",
-    "electron": "32.0.1",
+    "electron": "32.0.2",
     "electron-builder": "24.13.3",
     "electron-differential-updater": "4.3.2",
     "electron-progressbar": "2.2.1",
