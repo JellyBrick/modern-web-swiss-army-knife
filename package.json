@@ -119,7 +119,7 @@
     "@noonnu/gmarket-sans-medium": "0.1.0",
     "@noonnu/suit-regular": "0.1.0",
     "@openapi-codegen/typescript": "8.0.2",
-    "@openapi-qraft/react": "1.14.0",
+    "@openapi-qraft/react": "1.14.1",
     "@pdfslick/core": "1.5.1",
     "@playwright/test": "1.46.1",
     "@preact/signals-react": "2.2.0",
