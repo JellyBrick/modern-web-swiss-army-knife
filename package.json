@@ -244,7 +244,7 @@
     "@tanstack/react-virtual": "3.10.7",
     "@tanstack/router-devtools": "1.53.1",
     "@tanstack/router-zod-adapter": "1.53.1",
-    "@tanstack/solid-form": "0.30.0",
+    "@tanstack/solid-form": "0.32.0",
     "@tanstack/solid-query": "5.54.2",
     "@tanstack/solid-table": "8.20.5",
     "@tanstack/solid-virtual": "3.10.7",
