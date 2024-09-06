@@ -89,7 +89,7 @@
     "@linaria/react": "6.2.1",
     "@lordicon/element": "1.10.0",
     "@lottiefiles/dotlottie-react": "0.8.12",
-    "@lottiefiles/dotlottie-solid": "0.0.16",
+    "@lottiefiles/dotlottie-solid": "0.0.17",
     "@mantine/carousel": "7.12.2",
     "@mantine/charts": "7.12.2",
     "@mantine/code-highlight": "7.12.2",
