@@ -329,7 +329,7 @@
     "clsx": "2.1.1",
     "cmdk": "1.0.0",
     "color": "4.2.3",
-    "concurrently": "8.2.2",
+    "concurrently": "9.0.0",
     "corvu": "0.7.1",
     "create-vite": "5.5.2",
     "d3": "7.9.0",
