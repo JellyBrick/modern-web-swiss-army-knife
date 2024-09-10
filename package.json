@@ -55,7 +55,7 @@
     "@floating-ui/core": "1.6.7",
     "@floating-ui/dom": "1.6.10",
     "@floating-ui/react": "0.26.23",
-    "@fluentui/react": "8.120.8",
+    "@fluentui/react": "8.120.9",
     "@fluentui/react-components": "9.54.13",
     "@formkit/auto-animate": "0.8.2",
     "@fortawesome/fontawesome-svg-core": "6.6.0",
