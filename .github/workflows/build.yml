@@ -42,13 +42,13 @@ jobs:
         uses: thedoctor0/zip-release@0.7.6
         with:
           type: '7z'
-          filename: "release-${{ matrix.os == 'ubuntu-24.04' && 'sources' || matrix.os }}.zip"
+          filename: "release-${{ matrix.os == 'ubuntu-24.04' && 'sources' || matrix.os }}.7z"
           exclusions: '*.git*'
 
       - name: Upload Release
         uses: ncipollo/release-action@v1.14.0
         with:
-          artifacts: "release-${{ matrix.os }}.zip"
+          artifacts: "release-${{ matrix.os == 'ubuntu-24.04' && 'sources' || matrix.os }}.7z"
           token: ${{ secrets.GITHUB_TOKEN }}
           allowUpdates: true
           replacesArtifacts: true
