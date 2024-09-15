@@ -155,6 +155,7 @@
     "@react-three/fiber": "^8.16.8",
     "@rjsf/antd": "5.21.1",
     "@rjsf/core": "5.21.1",
+    "@rjsf/mui": "5.21.1",
     "@rnwonder/solid-date-picker": "1.4.1",
     "@rollup/plugin-commonjs": "26.0.1",
     "@rollup/plugin-json": "6.1.0",
