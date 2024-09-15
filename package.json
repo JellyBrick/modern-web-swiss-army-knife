@@ -54,7 +54,7 @@
     "@ffmpeg.wasm/main": "0.13.1",
     "@files-ui/react": "1.2.4",
     "@floating-ui/core": "1.6.8",
-    "@floating-ui/dom": "1.6.10",
+    "@floating-ui/dom": "1.6.11",
     "@floating-ui/react": "0.26.24",
     "@fluentui/react": "8.120.9",
     "@fluentui/react-components": "9.54.15",
