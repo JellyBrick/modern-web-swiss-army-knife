@@ -24,7 +24,7 @@
     "pdfjs-dist": "4.6.82"
   },
   "dependencies": {
-    "@7nohe/openapi-react-query-codegen": "1.6.0",
+    "@7nohe/openapi-react-query-codegen": "1.6.1",
     "@babel/cli": "7.25.6",
     "@babel/plugin-proposal-decorators": "7.24.7",
     "@babel/template": "7.25.0",
