@@ -250,6 +250,7 @@
     "@tanstack/router-zod-adapter": "1.57.15",
     "@tanstack/solid-form": "0.32.0",
     "@tanstack/solid-query": "5.56.2",
+    "@tanstack/solid-query-devtools": "5.56.2",
     "@tanstack/solid-table": "8.20.5",
     "@tanstack/solid-virtual": "3.10.7",
     "@tanstack/zod-form-adapter": "0.32.0",
