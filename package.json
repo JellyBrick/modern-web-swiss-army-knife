@@ -228,7 +228,7 @@
     "@storybook/types": "8.3.1",
     "@styled/typescript-styled-plugin": "1.0.1",
     "@suid/icons-material": "0.8.1",
-    "@suid/material": "0.17.0",
+    "@suid/material": "0.18.0",
     "@suid/vite-plugin": "0.3.1",
     "@suspensive/react": "2.17.1",
     "@suyongs/solid-utility": "0.4.3",
