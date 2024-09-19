@@ -83,7 +83,7 @@
     "@headlessui/react": "2.1.8",
     "@heroicons/react": "2.1.5",
     "@hey-api/client-axios": "0.2.4",
-    "@hey-api/client-fetch": "0.3.0",
+    "@hey-api/client-fetch": "0.3.1",
     "@hey-api/openapi-ts": "0.53.1",
     "@hocuspocus/extension-database": "2.13.5",
     "@hocuspocus/extension-logger": "2.13.5",
