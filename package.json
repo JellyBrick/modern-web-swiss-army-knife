@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/JellyBrick/modern-web-swiss-army-knife#readme",
   "overrides": {
-    "electron": "32.1.1",
+    "electron": "32.1.2",
     "pdfjs-dist": "4.6.82"
   },
   "dependencies": {
