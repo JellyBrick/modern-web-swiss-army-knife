@@ -218,7 +218,7 @@
     "@solid-primitives/rootless": "1.4.5",
     "@solid-primitives/scheduled": "1.4.3",
     "@solid-primitives/script-loader": "2.2.0",
-    "@solid-primitives/set": "0.4.12",
+    "@solid-primitives/set": "0.5.0",
     "@solid-primitives/share": "2.0.6",
     "@solid-primitives/signal-builders": "0.1.17",
     "@solid-primitives/state-machine": "0.0.3",
