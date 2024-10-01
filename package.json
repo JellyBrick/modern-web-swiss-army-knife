@@ -254,7 +254,7 @@
     "@swc/cli": "0.4.0",
     "@swc/core": "1.7.28",
     "@swc/plugin-emotion": "4.0.2",
-    "@tabler/icons-solidjs": "3.17.0",
+    "@tabler/icons-solidjs": "3.19.0",
     "@tailwindcss/typography": "0.5.15",
     "@tanstack/query-devtools": "5.56.1",
     "@tanstack/react-form": "0.33.0",
