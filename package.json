@@ -361,7 +361,7 @@
     "d3-array": "3.2.4",
     "date-fns": "3.6.0",
     "dayjs": "1.11.13",
-    "deepmerge-ts": "7.1.0",
+    "deepmerge-ts": "7.1.1",
     "del-cli": "5.1.0",
     "electron-vite": "2.3.0",
     "embla-carousel": "8.3.0",
