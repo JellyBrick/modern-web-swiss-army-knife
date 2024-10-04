@@ -248,7 +248,7 @@
     "@suid/icons-material": "0.8.1",
     "@suid/material": "0.18.0",
     "@suid/vite-plugin": "0.3.1",
-    "@suspensive/react": "2.17.1",
+    "@suspensive/react": "2.17.2",
     "@suyongs/solid-utility": "0.4.3",
     "@svgr/plugin-svgo": "8.1.0",
     "@swc/cli": "0.4.0",
