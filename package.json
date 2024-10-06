@@ -95,7 +95,7 @@
     "@hono/swagger-ui": "0.4.1",
     "@hono/trpc-server": "0.3.2",
     "@hono/typia-validator": "0.0.5",
-    "@hono/zod-openapi": "0.16.3",
+    "@hono/zod-openapi": "0.16.4",
     "@hono/zod-validator": "0.3.0",
     "@hookform/resolvers": "3.9.0",
     "@jcubic/tagger": "0.6.2",
