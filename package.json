@@ -306,7 +306,7 @@
     "@types/color": "3.0.6",
     "@types/d3": "7.4.3",
     "@types/d3-array": "3.2.1",
-    "@types/hammerjs": "2.0.45",
+    "@types/hammerjs": "2.0.46",
     "@types/lodash": "4.17.10",
     "@types/luxon": "3.4.2",
     "@types/node": "20.16.10",
