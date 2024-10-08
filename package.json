@@ -452,7 +452,7 @@
     "prosemirror-history": "1.4.1",
     "prosemirror-inputrules": "1.4.0",
     "prosemirror-markdown": "1.13.1",
-    "prosemirror-model": "1.22.3",
+    "prosemirror-model": "1.23.0",
     "prosemirror-transform": "1.10.0",
     "prosemirror-view": "1.34.3",
     "rapini": "3.5.0",
