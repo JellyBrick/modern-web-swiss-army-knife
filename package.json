@@ -89,7 +89,7 @@
     "@hocuspocus/extension-logger": "2.13.7",
     "@hocuspocus/provider": "2.13.7",
     "@hocuspocus/server": "2.13.7",
-    "@hocuspocus/transformer": "2.13.6",
+    "@hocuspocus/transformer": "2.13.7",
     "@hono/node-server": "1.13.1",
     "@hono/node-ws": "1.0.4",
     "@hono/swagger-ui": "0.4.1",
