@@ -401,7 +401,7 @@
     "hono-rate-limiter": "0.4.0",
     "html-parse-string": "0.0.9",
     "html-to-image": "1.11.11",
-    "i18next": "23.15.2",
+    "i18next": "23.16.2",
     "immutable": "4.3.7",
     "input-otp": "1.2.4",
     "jotai": "2.10.1",
