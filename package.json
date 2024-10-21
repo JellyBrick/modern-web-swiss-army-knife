@@ -379,7 +379,7 @@
     "eslint-plugin-react-hooks": "4.6.2",
     "eslint-plugin-react-refresh": "0.4.13",
     "eslint-plugin-solid": "0.14.3",
-    "eslint-plugin-storybook": "0.9.0",
+    "eslint-plugin-storybook": "0.10.1",
     "farm": "0.0.1",
     "fast-average-color": "9.4.0",
     "fast-equals": "5.0.1",
