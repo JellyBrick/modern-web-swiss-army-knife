@@ -285,7 +285,7 @@
     "@toss/crypto": "1.2.1",
     "@toss/date": "1.2.1",
     "@toss/emotion-utils": "1.2.2",
-    "@toss/error-boundary": "1.5.0",
+    "@toss/error-boundary": "1.5.2",
     "@toss/framer-motion": "1.2.0",
     "@toss/impression-area": "1.4.0",
     "@toss/ky": "1.2.0",
