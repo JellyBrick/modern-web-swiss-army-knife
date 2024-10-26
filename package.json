@@ -288,7 +288,7 @@
     "@toss/error-boundary": "1.5.2",
     "@toss/framer-motion": "1.2.0",
     "@toss/impression-area": "1.4.2",
-    "@toss/ky": "1.2.0",
+    "@toss/ky": "1.2.1",
     "@toss/lottie": "1.3.0",
     "@toss/react": "1.7.0",
     "@toss/react-query": "1.3.0",
