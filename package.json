@@ -64,7 +64,7 @@
     "@farmfe/plugin-url": "0.0.6",
     "@farmfe/plugin-virtual": "0.0.7",
     "@farmfe/plugin-yaml": "0.0.7",
-    "@felte/react": "1.2.13",
+    "@felte/react": "1.2.14",
     "@felte/reporter-solid": "1.2.10",
     "@felte/solid": "1.2.13",
     "@ffmpeg.wasm/core-mt": "0.13.2",
