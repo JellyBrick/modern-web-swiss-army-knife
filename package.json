@@ -403,7 +403,7 @@
     "html-to-image": "1.11.11",
     "i18next": "23.16.4",
     "immutable": "4.3.7",
-    "input-otp": "1.2.4",
+    "input-otp": "1.2.5",
     "jotai": "2.10.1",
     "jotai-cache": "0.5.0",
     "jquery": "3.7.1",
