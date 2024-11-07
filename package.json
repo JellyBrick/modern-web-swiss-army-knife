@@ -28,7 +28,7 @@
     "@babel/cli": "7.25.9",
     "@babel/plugin-proposal-decorators": "7.25.9",
     "@babel/template": "7.25.9",
-    "@chakra-ui/react": "2.10.3",
+    "@chakra-ui/react": "2.10.4",
     "@chromatic-com/storybook": "2.0.2",
     "@corvu/tailwind": "0.1.5",
     "@dotenvx/dotenvx": "1.22.0",
