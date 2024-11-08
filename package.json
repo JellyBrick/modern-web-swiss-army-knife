@@ -561,7 +561,7 @@
     "vitest": "2.1.4",
     "wouter": "3.3.5",
     "y-prosemirror": "1.2.12",
-    "zip-lib": "1.0.4",
+    "zip-lib": "1.0.5",
     "zod": "3.23.8",
     "zustand": "4.5.5"
   }
