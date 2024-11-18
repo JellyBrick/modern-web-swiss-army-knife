@@ -439,7 +439,7 @@
     "pdfjs-dist": "4.8.69",
     "peerjs": "1.5.4",
     "playwright": "1.47.2",
-    "pnpm": "9.12.3",
+    "pnpm": "9.13.2",
     "postcss": "8.4.49",
     "postcss-loader": "8.1.1",
     "postcss-preset-mantine": "1.17.0",
