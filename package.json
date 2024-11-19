@@ -81,7 +81,7 @@
     "@fortawesome/free-solid-svg-icons": "6.6.0",
     "@fortawesome/react-fontawesome": "0.2.2",
     "@headlessui/react": "2.2.0",
-    "@heroicons/react": "2.1.5",
+    "@heroicons/react": "2.2.0",
     "@hey-api/client-axios": "0.2.10",
     "@hey-api/client-fetch": "0.4.4",
     "@hey-api/openapi-ts": "0.55.3",
