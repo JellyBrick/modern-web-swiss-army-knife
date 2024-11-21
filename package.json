@@ -337,7 +337,7 @@
     "@wyw-in-js/babel-preset": "0.5.5",
     "@wyw-in-js/vite": "0.5.5",
     "allotment": "1.20.2",
-    "antd": "5.22.1",
+    "antd": "5.22.2",
     "async-mutex": "0.5.0",
     "atropos": "2.0.2",
     "autoprefixer": "10.4.20",
