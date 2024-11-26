@@ -333,7 +333,7 @@
     "@vanilla-extract/vite-plugin": "4.0.18",
     "@vitejs/plugin-legacy": "5.4.3",
     "@vitejs/plugin-react": "4.3.4",
-    "@vitejs/plugin-react-swc": "3.7.1",
+    "@vitejs/plugin-react-swc": "3.7.2",
     "@wyw-in-js/babel-preset": "0.5.5",
     "@wyw-in-js/vite": "0.5.5",
     "allotment": "1.20.2",
