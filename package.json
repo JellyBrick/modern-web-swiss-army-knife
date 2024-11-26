@@ -347,7 +347,7 @@
     "babel-preset-react": "6.24.1",
     "babel-preset-solid": "1.9.3",
     "builtin-modules": "4.0.0",
-    "class-variance-authority": "0.7.0",
+    "class-variance-authority": "0.7.1",
     "classy-solid": "0.4.3",
     "clsx": "2.1.1",
     "cmdk": "1.0.4",
