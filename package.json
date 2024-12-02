@@ -93,7 +93,7 @@
     "@hono/node-server": "1.13.7",
     "@hono/node-ws": "1.0.4",
     "@hono/swagger-ui": "0.5.0",
-    "@hono/trpc-server": "0.3.2",
+    "@hono/trpc-server": "0.3.3",
     "@hono/typia-validator": "0.0.5",
     "@hono/zod-openapi": "0.18.3",
     "@hono/zod-validator": "0.4.1",
