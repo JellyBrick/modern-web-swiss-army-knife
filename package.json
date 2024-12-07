@@ -73,7 +73,7 @@
     "@files-ui/react": "1.2.4",
     "@floating-ui/core": "1.6.8",
     "@floating-ui/dom": "1.6.12",
-    "@floating-ui/react": "0.26.28",
+    "@floating-ui/react": "0.27.0",
     "@fluentui/react": "8.121.13",
     "@fluentui/react-components": "9.56.4",
     "@formkit/auto-animate": "0.8.2",
