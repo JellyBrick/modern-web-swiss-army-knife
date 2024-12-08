@@ -84,7 +84,7 @@
     "@heroicons/react": "2.2.0",
     "@hey-api/client-axios": "0.2.12",
     "@hey-api/client-fetch": "0.5.2",
-    "@hey-api/openapi-ts": "0.58.0",
+    "@hey-api/openapi-ts": "0.59.1",
     "@hocuspocus/extension-database": "2.14.0",
     "@hocuspocus/extension-logger": "2.14.0",
     "@hocuspocus/provider": "2.14.0",
