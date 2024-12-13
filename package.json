@@ -262,7 +262,7 @@
     "@tanstack/react-query-devtools": "5.56.2",
     "@tanstack/react-router": "1.58.16",
     "@tanstack/react-router-with-query": "1.58.16",
-    "@tanstack/react-table": "8.20.5",
+    "@tanstack/react-table": "8.20.6",
     "@tanstack/react-virtual": "3.11.1",
     "@tanstack/router-devtools": "1.58.16",
     "@tanstack/router-zod-adapter": "1.58.16",
