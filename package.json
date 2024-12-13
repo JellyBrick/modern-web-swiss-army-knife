@@ -96,7 +96,7 @@
     "@hono/trpc-server": "0.3.4",
     "@hono/typia-validator": "0.0.5",
     "@hono/zod-openapi": "0.18.3",
-    "@hono/zod-validator": "0.4.1",
+    "@hono/zod-validator": "0.4.2",
     "@hookform/resolvers": "3.9.1",
     "@jcubic/tagger": "0.6.2",
     "@jellybrick/solid-i18next": "1.2.2",
