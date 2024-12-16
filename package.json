@@ -270,7 +270,7 @@
     "@tanstack/solid-query": "5.56.2",
     "@tanstack/solid-query-devtools": "5.56.2",
     "@tanstack/solid-table": "8.20.5",
-    "@tanstack/solid-virtual": "3.11.1",
+    "@tanstack/solid-virtual": "3.11.2",
     "@tanstack/zod-form-adapter": "0.39.0",
     "@thisbeyond/solid-select": "0.15.0",
     "@tiptap/extension-collaboration": "2.7.4",
