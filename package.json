@@ -82,7 +82,7 @@
     "@fortawesome/react-fontawesome": "0.2.2",
     "@headlessui/react": "2.2.0",
     "@heroicons/react": "2.2.0",
-    "@hey-api/client-axios": "0.3.1",
+    "@hey-api/client-axios": "0.3.3",
     "@hey-api/client-fetch": "0.5.4",
     "@hey-api/openapi-ts": "0.59.2",
     "@hocuspocus/extension-database": "2.15.0",
