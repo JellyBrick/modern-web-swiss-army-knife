@@ -54,7 +54,7 @@
     "@farmfe/js-plugin-svgr": "1.8.0",
     "@farmfe/js-plugin-visualizer": "1.1.4",
     "@farmfe/plugin-auto-import": "0.0.5",
-    "@farmfe/plugin-dsv": "0.0.6",
+    "@farmfe/plugin-dsv": "0.0.7",
     "@farmfe/plugin-image": "0.0.5",
     "@farmfe/plugin-mdx": "0.0.2",
     "@farmfe/plugin-react": "1.2.6",
