@@ -58,7 +58,7 @@
     "@farmfe/plugin-image": "0.0.6",
     "@farmfe/plugin-mdx": "0.0.3",
     "@farmfe/plugin-react": "1.2.6",
-    "@farmfe/plugin-react-components": "1.0.10",
+    "@farmfe/plugin-react-components": "1.0.11",
     "@farmfe/plugin-sass": "1.1.0",
     "@farmfe/plugin-strip": "0.0.6",
     "@farmfe/plugin-url": "0.0.6",
