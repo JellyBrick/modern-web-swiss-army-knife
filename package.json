@@ -557,7 +557,7 @@
     "vite-plugin-solid-svg": "0.8.1",
     "vite-plugin-static-copy": "1.0.6",
     "vite-plugin-svgr": "4.3.0",
-    "vite-tsconfig-paths": "5.0.1",
+    "vite-tsconfig-paths": "5.1.4",
     "vitest": "2.1.8",
     "wouter": "3.3.5",
     "y-prosemirror": "1.2.15",
