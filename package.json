@@ -56,7 +56,7 @@
     "@farmfe/plugin-auto-import": "0.0.6",
     "@farmfe/plugin-dsv": "0.0.8",
     "@farmfe/plugin-image": "0.0.7",
-    "@farmfe/plugin-mdx": "0.0.3",
+    "@farmfe/plugin-mdx": "0.0.4",
     "@farmfe/plugin-react": "1.2.6",
     "@farmfe/plugin-react-components": "1.0.11",
     "@farmfe/plugin-sass": "1.1.0",
