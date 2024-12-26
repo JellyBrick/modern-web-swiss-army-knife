@@ -63,7 +63,7 @@
     "@farmfe/plugin-strip": "0.0.8",
     "@farmfe/plugin-url": "0.0.8",
     "@farmfe/plugin-virtual": "0.0.10",
-    "@farmfe/plugin-yaml": "0.0.9",
+    "@farmfe/plugin-yaml": "0.0.10",
     "@felte/react": "1.2.14",
     "@felte/reporter-solid": "1.2.11",
     "@felte/solid": "1.2.14",
