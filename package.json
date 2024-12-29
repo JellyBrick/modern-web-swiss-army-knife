@@ -175,7 +175,7 @@
     "@rjsf/core": "5.23.2",
     "@rjsf/mui": "5.23.2",
     "@rnwonder/solid-date-picker": "1.4.1",
-    "@rollup/plugin-commonjs": "26.0.3",
+    "@rollup/plugin-commonjs": "28.0.2",
     "@rollup/plugin-json": "6.1.0",
     "@rollup/plugin-node-resolve": "15.3.1",
     "@rollup/plugin-terser": "0.4.4",
