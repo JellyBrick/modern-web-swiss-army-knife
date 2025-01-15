@@ -53,7 +53,7 @@
     "@farmfe/js-plugin-solid": "2.11.0",
     "@farmfe/js-plugin-svgr": "1.9.0",
     "@farmfe/js-plugin-visualizer": "1.1.4",
-    "@farmfe/plugin-auto-import": "0.0.6",
+    "@farmfe/plugin-auto-import": "0.0.7",
     "@farmfe/plugin-dsv": "0.0.8",
     "@farmfe/plugin-image": "0.0.7",
     "@farmfe/plugin-mdx": "0.0.4",
