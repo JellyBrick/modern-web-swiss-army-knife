@@ -196,7 +196,7 @@
     "@solid-primitives/fetch": "2.4.9",
     "@solid-primitives/fullscreen": "1.2.6",
     "@solid-primitives/graphql": "2.1.0",
-    "@solid-primitives/immutable": "1.0.10",
+    "@solid-primitives/immutable": "1.0.12",
     "@solid-primitives/intersection-observer": "2.1.6",
     "@solid-primitives/jsx-tokenizer": "1.0.10",
     "@solid-primitives/keyed": "1.2.3",
