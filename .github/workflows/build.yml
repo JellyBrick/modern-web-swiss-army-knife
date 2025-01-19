@@ -46,7 +46,7 @@ jobs:
           exclusions: '*.git*'
 
       - name: Upload Release
-        uses: ncipollo/release-action@v1.14.0
+        uses: ncipollo/release-action@v1.15.0
         with:
           artifacts: "release-${{ matrix.os == 'ubuntu-24.04' && 'sources' || matrix.os }}.7z"
           token: ${{ secrets.GITHUB_TOKEN }}
