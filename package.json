@@ -137,7 +137,7 @@
     "@nanostores/solid": "0.5.0",
     "@noonnu/gmarket-sans-medium": "0.1.0",
     "@noonnu/suit-regular": "0.1.0",
-    "@openapi-codegen/typescript": "8.0.2",
+    "@openapi-codegen/typescript": "8.1.1",
     "@openapi-qraft/react": "1.14.2",
     "@pdfslick/core": "2.0.0",
     "@playwright/test": "1.49.1",
