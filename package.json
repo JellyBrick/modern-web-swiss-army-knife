@@ -29,7 +29,7 @@
     "@babel/plugin-proposal-decorators": "7.25.9",
     "@babel/template": "7.25.9",
     "@chakra-ui/react": "3.4.0",
-    "@chromatic-com/storybook": "2.0.2",
+    "@chromatic-com/storybook": "3.2.4",
     "@corvu/tailwind": "0.1.5",
     "@dotenvx/dotenvx": "1.32.0",
     "@dropzone-ui/react": "7.0.4",
