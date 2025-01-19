@@ -382,7 +382,7 @@
     "eslint-plugin-storybook": "0.11.2",
     "farm": "0.0.1",
     "fast-average-color": "9.4.0",
-    "fast-equals": "5.0.1",
+    "fast-equals": "5.2.2",
     "fast-glob": "3.3.3",
     "fast-xml-parser": "4.5.1",
     "filenamify": "6.0.0",
