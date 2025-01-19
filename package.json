@@ -303,7 +303,7 @@
     "@toss/validators": "1.3.2",
     "@total-typescript/ts-reset": "0.6.1",
     "@types/autosuggest-highlight": "3.2.3",
-    "@types/color": "3.0.6",
+    "@types/color": "4.2.0",
     "@types/d3": "7.4.3",
     "@types/d3-array": "3.2.1",
     "@types/hammerjs": "2.0.46",
