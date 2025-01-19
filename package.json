@@ -200,7 +200,7 @@
     "@solid-primitives/intersection-observer": "2.1.6",
     "@solid-primitives/jsx-tokenizer": "1.0.10",
     "@solid-primitives/keyed": "1.2.3",
-    "@solid-primitives/map": "0.4.13",
+    "@solid-primitives/map": "0.5.0",
     "@solid-primitives/media": "2.2.10",
     "@solid-primitives/memo": "1.3.10",
     "@solid-primitives/mouse": "2.0.21",
