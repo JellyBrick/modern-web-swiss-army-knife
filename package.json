@@ -356,7 +356,7 @@
     "core-js": "3.39.0",
     "corvu": "0.7.1",
     "create-farm": "0.0.18",
-    "create-vite": "5.5.5",
+    "create-vite": "6.1.1",
     "d3": "7.9.0",
     "d3-array": "3.2.4",
     "date-fns": "3.6.0",
