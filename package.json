@@ -46,7 +46,7 @@
     "@babel/template": "7.25.9",
     "@chakra-ui/react": "3.4.0",
     "@chromatic-com/storybook": "3.2.4",
-    "@corvu/tailwind": "0.1.5",
+    "@corvu/tailwind": "0.1.6",
     "@dotenvx/dotenvx": "1.33.0",
     "@dropzone-ui/react": "7.0.4",
     "@egjs/axes": "3.9.1",
