@@ -486,7 +486,7 @@
     "react": "18.3.1",
     "react-compiler-runtime": "19.0.0-beta-e552027-20250112",
     "react-cookie": "7.2.2",
-    "react-day-picker": "9.5.0",
+    "react-day-picker": "9.5.1",
     "react-devtools": "6.0.1",
     "react-devtools-core": "6.0.1",
     "react-dom": "18.3.1",
