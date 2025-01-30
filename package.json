@@ -105,7 +105,7 @@
     "@hocuspocus/extension-logger": "2.15.1",
     "@hocuspocus/provider": "2.15.1",
     "@hocuspocus/server": "2.15.1",
-    "@hocuspocus/transformer": "2.15.0",
+    "@hocuspocus/transformer": "2.15.1",
     "@hono/node-server": "1.13.7",
     "@hono/node-ws": "1.0.6",
     "@hono/swagger-ui": "0.5.0",
