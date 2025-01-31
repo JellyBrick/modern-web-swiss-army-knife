@@ -421,7 +421,7 @@
     "hammerjs": "2.0.8",
     "happy-dom": "16.6.0",
     "history": "5.3.0",
-    "hono": "4.6.19",
+    "hono": "4.6.20",
     "hono-rate-limiter": "0.4.2",
     "html-parse-string": "0.0.9",
     "html-to-image": "1.11.11",
