@@ -101,7 +101,7 @@
     "@hey-api/client-axios": "0.5.3",
     "@hey-api/client-fetch": "0.7.3",
     "@hey-api/openapi-ts": "0.62.3",
-    "@hocuspocus/extension-database": "2.15.1",
+    "@hocuspocus/extension-database": "2.15.2",
     "@hocuspocus/extension-logger": "2.15.1",
     "@hocuspocus/provider": "2.15.1",
     "@hocuspocus/server": "2.15.1",
