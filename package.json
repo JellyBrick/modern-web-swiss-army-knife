@@ -270,7 +270,7 @@
     "@suyongs/solid-utility": "0.4.4",
     "@svgr/plugin-svgo": "8.1.0",
     "@swc/cli": "0.6.0",
-    "@swc/core": "1.10.14",
+    "@swc/core": "1.10.15",
     "@swc/plugin-emotion": "8.6.0",
     "@tabler/icons-solidjs": "3.28.1",
     "@tailwindcss/typography": "0.5.16",
