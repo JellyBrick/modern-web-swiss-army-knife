@@ -43,7 +43,7 @@
     "@ag-grid-community/styles": "33.0.3",
     "@babel/cli": "7.26.4",
     "@babel/plugin-proposal-decorators": "7.25.9",
-    "@babel/template": "7.25.9",
+    "@babel/template": "7.26.8",
     "@chakra-ui/react": "3.7.0",
     "@chromatic-com/storybook": "3.2.4",
     "@corvu/tailwind": "0.1.6",
