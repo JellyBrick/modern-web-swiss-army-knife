@@ -155,7 +155,7 @@
     "@noonnu/suit-regular": "0.1.0",
     "@openapi-codegen/typescript": "8.1.1",
     "@openapi-qraft/react": "2.0.1",
-    "@pdfslick/core": "2.0.1",
+    "@pdfslick/core": "2.1.0",
     "@playwright/test": "1.49.1",
     "@preact/signals-react": "3.0.1",
     "@radix-ui/react-accordion": "1.2.3",
