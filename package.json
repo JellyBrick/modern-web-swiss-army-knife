@@ -466,7 +466,7 @@
     "peerjs": "1.5.4",
     "playwright": "1.49.1",
     "pnpm": "9.15.5",
-    "postcss": "8.5.1",
+    "postcss": "8.5.2",
     "postcss-loader": "8.1.1",
     "postcss-preset-mantine": "1.17.0",
     "postcss-simple-vars": "7.0.1",
