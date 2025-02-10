@@ -200,7 +200,7 @@
     "@solid-primitives/active-element": "2.1.0",
     "@solid-primitives/audio": "1.4.0",
     "@solid-primitives/clipboard": "1.6.0",
-    "@solid-primitives/connectivity": "0.3.20",
+    "@solid-primitives/connectivity": "0.4.0",
     "@solid-primitives/context": "0.2.3",
     "@solid-primitives/controlled-props": "0.0.15",
     "@solid-primitives/date": "2.0.24",
