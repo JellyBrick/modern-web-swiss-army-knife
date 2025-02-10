@@ -515,7 +515,7 @@
     "redaxios": "0.5.1",
     "reflect-metadata": "0.2.2",
     "regenerator-runtime": "0.14.1",
-    "remark-gfm": "4.0.0",
+    "remark-gfm": "4.0.1",
     "rollup": "4.31.0",
     "rollup-plugin-dts": "6.1.1",
     "rooks": "7.14.1",
