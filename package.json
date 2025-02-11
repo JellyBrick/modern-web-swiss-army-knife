@@ -356,7 +356,7 @@
     "@wyw-in-js/vite": "0.5.5",
     "ag-grid-community": "33.0.4",
     "ag-grid-react": "33.0.4",
-    "allotment": "1.20.2",
+    "allotment": "1.20.3",
     "antd": "5.23.4",
     "apibake": "0.1.25",
     "async-mutex": "0.5.0",
