@@ -203,7 +203,7 @@
     "@solid-primitives/connectivity": "0.4.0",
     "@solid-primitives/context": "0.3.0",
     "@solid-primitives/controlled-props": "0.1.0",
-    "@solid-primitives/date": "2.0.24",
+    "@solid-primitives/date": "2.1.0",
     "@solid-primitives/destructure": "0.1.17",
     "@solid-primitives/devices": "1.2.6",
     "@solid-primitives/event-bus": "1.0.11",
