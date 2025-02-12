@@ -424,7 +424,7 @@
     "hono": "4.6.20",
     "hono-rate-limiter": "0.4.2",
     "html-parse-string": "0.0.9",
-    "html-to-image": "1.11.11",
+    "html-to-image": "1.11.12",
     "i18next": "24.2.2",
     "immutable": "5.0.3",
     "input-otp": "1.4.2",
