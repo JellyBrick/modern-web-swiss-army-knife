@@ -47,7 +47,7 @@
     "@chakra-ui/react": "3.8.0",
     "@chromatic-com/storybook": "3.2.4",
     "@corvu/tailwind": "0.1.6",
-    "@dotenvx/dotenvx": "1.35.0",
+    "@dotenvx/dotenvx": "1.36.0",
     "@dropzone-ui/react": "7.0.4",
     "@egjs/axes": "3.9.1",
     "@egjs/conveyer": "1.7.1",
