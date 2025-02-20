@@ -24,16 +24,16 @@
       "@ag-grid-community/core": "32.3.3"
     },
     "@vanilla-extract/vite-plugin": {
-      "vite": "6.1.0"
+      "vite": "6.1.1"
     },
     "@suid/vite-plugin": {
-      "vite": "6.1.0"
+      "vite": "6.1.1"
     },
     "solid-lazy-plus": {
       "@solidjs/start": "1.1.1"
     },
     "electron-vite": {
-      "vite": "6.1.0"
+      "vite": "6.1.1"
     },
     "electron": "34.2.0",
     "pdfjs-dist": "4.10.38"
@@ -581,7 +581,7 @@
     "uuid": "11.0.5",
     "vaul": "1.1.2",
     "virtua": "0.40.0",
-    "vite": "6.1.0",
+    "vite": "6.1.1",
     "vite-plugin-babel": "1.3.0",
     "vite-plugin-dts": "^4.5.0",
     "vite-plugin-inspect": "10.2.1",
