@@ -189,7 +189,7 @@
     "@radix-ui/react-toggle-group": "1.1.2",
     "@radix-ui/react-tooltip": "1.1.8",
     "@react-spring/web": "9.7.5",
-    "@react-three/fiber": "^8.17.14",
+    "@react-three/fiber": "^9.0.0",
     "@rjsf/antd": "5.24.3",
     "@rjsf/core": "5.24.3",
     "@rjsf/mui": "5.24.3",
