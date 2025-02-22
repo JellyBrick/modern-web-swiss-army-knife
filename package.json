@@ -116,7 +116,7 @@
     "@hono/typia-validator": "0.1.0",
     "@hono/zod-openapi": "0.18.4",
     "@hono/zod-validator": "0.4.3",
-    "@hookform/resolvers": "4.1.0",
+    "@hookform/resolvers": "4.1.1",
     "@jcubic/tagger": "0.6.2",
     "@jellybrick/solid-i18next": "1.2.2",
     "@juggle/resize-observer": "3.4.0",
