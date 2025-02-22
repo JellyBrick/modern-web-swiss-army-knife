@@ -370,7 +370,7 @@
     "babel-plugin-react-compiler": "19.0.0-beta-e552027-20250112",
     "babel-plugin-solid-undestructure": "1.1.0",
     "babel-preset-react": "6.24.1",
-    "babel-preset-solid": "1.9.3",
+    "babel-preset-solid": "1.9.5",
     "builtin-modules": "4.0.0",
     "class-variance-authority": "0.7.1",
     "classy-solid": "0.4.3",
