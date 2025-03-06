@@ -440,7 +440,7 @@
     "jsonwebtoken": "9.0.2",
     "ky": "1.7.5",
     "ky-universal": "0.12.0",
-    "lightningcss": "1.29.1",
+    "lightningcss": "1.29.2",
     "lodash": "4.17.21",
     "lossless-json": "4.0.2",
     "lottie-light-react": "2.4.0",
