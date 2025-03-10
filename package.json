@@ -396,7 +396,7 @@
     "emotion-solid": "2.1.0",
     "es-hangul": "2.3.2",
     "es-toolkit": "1.32.0",
-    "esbuild": "0.25.0",
+    "esbuild": "0.25.1",
     "eslint": "9.20.1",
     "eslint-import-resolver-typescript": "3.8.3",
     "eslint-plugin-import": "2.31.0",
