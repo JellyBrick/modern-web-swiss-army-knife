@@ -378,7 +378,7 @@
     "cmdk": "1.0.4",
     "color": "5.0.0",
     "concurrently": "9.1.2",
-    "core-js": "3.40.0",
+    "core-js": "3.41.0",
     "corvu": "0.7.2",
     "create-farm": "0.0.18",
     "create-vite": "6.2.0",
