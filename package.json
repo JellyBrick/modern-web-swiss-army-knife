@@ -69,7 +69,7 @@
     "@farmfe/core": "1.7.1",
     "@farmfe/js-plugin-electron": "1.0.3",
     "@farmfe/js-plugin-postcss": "1.12.0",
-    "@farmfe/js-plugin-solid": "2.11.0",
+    "@farmfe/js-plugin-solid": "2.12.0",
     "@farmfe/js-plugin-svgr": "1.9.0",
     "@farmfe/js-plugin-visualizer": "1.1.4",
     "@farmfe/plugin-auto-import": "0.0.7",
