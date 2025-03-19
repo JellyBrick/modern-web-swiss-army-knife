@@ -113,7 +113,7 @@
     "@hono/node-ws": "1.1.0",
     "@hono/swagger-ui": "0.5.1",
     "@hono/trpc-server": "0.3.4",
-    "@hono/typia-validator": "0.1.0",
+    "@hono/typia-validator": "0.1.1",
     "@hono/zod-openapi": "0.19.2",
     "@hono/zod-validator": "0.4.3",
     "@hookform/resolvers": "4.1.3",
