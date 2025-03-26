@@ -388,7 +388,7 @@
     "dayjs": "1.11.13",
     "deepmerge-ts": "7.1.5",
     "del-cli": "6.0.0",
-    "electron-vite": "3.0.0",
+    "electron-vite": "3.1.0",
     "embla-carousel": "8.5.2",
     "embla-carousel-react": "8.5.2",
     "embla-carousel-solid": "8.5.2",
