@@ -429,7 +429,7 @@
     "html-parse-string": "0.0.9",
     "html-to-image": "1.11.13",
     "i18next": "24.2.3",
-    "immutable": "5.0.3",
+    "immutable": "5.1.1",
     "input-otp": "1.4.2",
     "jiti": "2.4.2",
     "jotai": "2.12.2",
