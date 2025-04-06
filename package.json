@@ -380,7 +380,7 @@
     "concurrently": "9.1.2",
     "core-js": "3.41.0",
     "corvu": "0.7.2",
-    "create-farm": "0.0.20",
+    "create-farm": "0.0.21",
     "create-vite": "6.3.1",
     "d3": "7.9.0",
     "d3-array": "3.2.4",
