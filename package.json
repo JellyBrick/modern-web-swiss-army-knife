@@ -438,7 +438,7 @@
     "js-draw": "1.29.1",
     "jsdom": "26.0.0",
     "jsonwebtoken": "9.0.2",
-    "ky": "1.7.5",
+    "ky": "1.8.0",
     "ky-universal": "0.12.0",
     "lightningcss": "1.29.3",
     "lodash": "4.17.21",
