@@ -81,7 +81,7 @@
     "@farmfe/plugin-sass": "1.1.0",
     "@farmfe/plugin-strip": "0.0.8",
     "@farmfe/plugin-url": "0.0.9",
-    "@farmfe/plugin-virtual": "0.0.10",
+    "@farmfe/plugin-virtual": "0.0.12",
     "@farmfe/plugin-yaml": "0.0.10",
     "@felte/react": "1.2.14",
     "@felte/reporter-solid": "1.2.11",
