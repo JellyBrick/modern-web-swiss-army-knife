@@ -520,7 +520,7 @@
     "regenerator-runtime": "0.14.1",
     "remark-gfm": "4.0.1",
     "rollup": "4.40.0",
-    "rollup-plugin-dts": "6.1.1",
+    "rollup-plugin-dts": "6.2.1",
     "rooks": "7.14.1",
     "semver": "7.7.1",
     "serve": "14.2.4",
