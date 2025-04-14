@@ -103,7 +103,7 @@
     "@heroicons/react": "2.2.0",
     "@hey-api/client-axios": "0.7.0",
     "@hey-api/client-fetch": "0.10.0",
-    "@hey-api/openapi-ts": "0.66.3",
+    "@hey-api/openapi-ts": "0.66.4",
     "@hocuspocus/extension-database": "2.15.2",
     "@hocuspocus/extension-logger": "2.15.2",
     "@hocuspocus/provider": "2.15.2",
