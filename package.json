@@ -53,7 +53,7 @@
     "@dotenvx/dotenvx": "1.40.1",
     "@dropzone-ui/react": "7.0.4",
     "@egjs/axes": "3.9.1",
-    "@egjs/conveyer": "1.7.1",
+    "@egjs/conveyer": "1.8.0",
     "@egjs/grid": "1.16.0",
     "@egjs/imready": "1.4.1",
     "@egjs/persist": "2.6.0",
