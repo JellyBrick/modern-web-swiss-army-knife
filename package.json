@@ -353,7 +353,7 @@
     "@vanilla-extract/sprinkles": "1.6.3",
     "@vanilla-extract/vite-plugin": "5.0.1",
     "@vitejs/plugin-legacy": "6.1.0",
-    "@vitejs/plugin-react": "4.4.0",
+    "@vitejs/plugin-react": "4.4.1",
     "@vitejs/plugin-react-swc": "3.9.0",
     "@wyw-in-js/babel-preset": "0.6.0",
     "@wyw-in-js/vite": "0.6.0",
