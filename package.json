@@ -200,7 +200,7 @@
     "@rollup/plugin-terser": "0.4.4",
     "@rollup/plugin-typescript": "12.1.2",
     "@solid-aria/primitives": "0.4.0",
-    "@solid-primitives/active-element": "2.1.0",
+    "@solid-primitives/active-element": "2.1.1",
     "@solid-primitives/audio": "1.4.0",
     "@solid-primitives/clipboard": "1.6.0",
     "@solid-primitives/connectivity": "0.4.0",
