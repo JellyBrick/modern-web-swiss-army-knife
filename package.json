@@ -204,7 +204,7 @@
     "@solid-primitives/audio": "1.4.1",
     "@solid-primitives/clipboard": "1.6.1",
     "@solid-primitives/connectivity": "0.4.1",
-    "@solid-primitives/context": "0.3.0",
+    "@solid-primitives/context": "0.3.1",
     "@solid-primitives/controlled-props": "0.1.0",
     "@solid-primitives/date": "2.1.1",
     "@solid-primitives/destructure": "0.2.0",
