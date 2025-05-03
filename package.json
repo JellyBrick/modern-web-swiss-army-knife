@@ -224,7 +224,7 @@
     "@solid-primitives/memo": "1.4.2",
     "@solid-primitives/mouse": "2.1.2",
     "@solid-primitives/mutable": "1.1.1",
-    "@solid-primitives/mutation-observer": "1.2.0",
+    "@solid-primitives/mutation-observer": "1.2.1",
     "@solid-primitives/page-visibility": "2.1.0",
     "@solid-primitives/permission": "1.3.0",
     "@solid-primitives/promise": "1.1.0",
