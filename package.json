@@ -233,7 +233,7 @@
     "@solid-primitives/range": "0.2.2",
     "@solid-primitives/refs": "1.1.1",
     "@solid-primitives/resize-observer": "2.1.1",
-    "@solid-primitives/resource": "0.4.0",
+    "@solid-primitives/resource": "0.4.2",
     "@solid-primitives/rootless": "1.5.0",
     "@solid-primitives/scheduled": "1.5.0",
     "@solid-primitives/script-loader": "2.3.0",
