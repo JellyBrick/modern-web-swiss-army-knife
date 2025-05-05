@@ -235,7 +235,7 @@
     "@solid-primitives/resize-observer": "2.1.1",
     "@solid-primitives/resource": "0.4.2",
     "@solid-primitives/rootless": "1.5.1",
-    "@solid-primitives/scheduled": "1.5.0",
+    "@solid-primitives/scheduled": "1.5.1",
     "@solid-primitives/script-loader": "2.3.0",
     "@solid-primitives/set": "0.6.0",
     "@solid-primitives/share": "2.2.0",
