@@ -239,7 +239,7 @@
     "@solid-primitives/script-loader": "2.3.1",
     "@solid-primitives/set": "0.6.0",
     "@solid-primitives/share": "2.2.1",
-    "@solid-primitives/signal-builders": "0.2.0",
+    "@solid-primitives/signal-builders": "0.2.1",
     "@solid-primitives/state-machine": "0.1.0",
     "@solid-primitives/static-store": "0.1.0",
     "@solid-primitives/storage": "4.3.1",
