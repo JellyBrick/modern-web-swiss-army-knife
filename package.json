@@ -242,7 +242,7 @@
     "@solid-primitives/signal-builders": "0.2.1",
     "@solid-primitives/state-machine": "0.1.1",
     "@solid-primitives/static-store": "0.1.1",
-    "@solid-primitives/storage": "4.3.1",
+    "@solid-primitives/storage": "4.3.2",
     "@solid-primitives/stream": "0.7.0",
     "@solid-primitives/timer": "1.4.0",
     "@solid-primitives/transition-group": "1.1.0",
