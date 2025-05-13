@@ -522,7 +522,7 @@
     "rollup": "4.40.2",
     "rollup-plugin-dts": "6.2.1",
     "rooks": "7.14.1",
-    "semver": "7.7.1",
+    "semver": "7.7.2",
     "serve": "14.2.4",
     "shadcn": "2.5.0",
     "shadcn-dropzone": "0.2.1",
