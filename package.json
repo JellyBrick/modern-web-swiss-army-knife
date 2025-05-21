@@ -291,7 +291,7 @@
     "@tanstack/solid-query": "5.66.11",
     "@tanstack/solid-query-devtools": "5.66.11",
     "@tanstack/solid-table": "8.21.3",
-    "@tanstack/solid-virtual": "3.13.8",
+    "@tanstack/solid-virtual": "3.13.9",
     "@tanstack/zod-form-adapter": "0.42.0",
     "@thisbeyond/solid-select": "0.15.0",
     "@tiptap/extension-collaboration": "2.11.7",
