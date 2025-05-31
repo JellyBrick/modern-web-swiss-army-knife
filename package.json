@@ -269,7 +269,7 @@
     "@suid/vite-plugin": "0.3.1",
     "@suspensive/jotai": "2.18.13",
     "@suspensive/react": "2.18.13",
-    "@suspensive/react-query-5": "2.18.12",
+    "@suspensive/react-query-5": "2.18.13",
     "@suyongs/solid-utility": "0.4.4",
     "@svgr/plugin-svgo": "8.1.0",
     "@swc/cli": "0.6.0",
