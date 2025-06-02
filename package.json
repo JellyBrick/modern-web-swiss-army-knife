@@ -79,7 +79,7 @@
     "@farmfe/plugin-react": "1.2.6",
     "@farmfe/plugin-react-components": "1.0.12",
     "@farmfe/plugin-sass": "1.1.0",
-    "@farmfe/plugin-strip": "0.0.8",
+    "@farmfe/plugin-strip": "0.0.9",
     "@farmfe/plugin-url": "0.0.9",
     "@farmfe/plugin-virtual": "0.0.12",
     "@farmfe/plugin-yaml": "0.0.10",
