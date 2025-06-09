@@ -466,7 +466,7 @@
     "patch-package": "8.0.0",
     "path-browserify": "1.0.1",
     "pdfjs-dist": "4.10.38",
-    "peerjs": "1.5.4",
+    "peerjs": "1.5.5",
     "playwright": "1.50.1",
     "pnpm": "10.11.0",
     "postcss": "8.5.4",
