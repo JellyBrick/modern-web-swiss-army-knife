@@ -65,7 +65,7 @@
     "@emotion/css": "11.13.5",
     "@emotion/react": "11.14.0",
     "@emotion/styled": "11.14.0",
-    "@farmfe/cli": "1.0.4",
+    "@farmfe/cli": "1.0.5",
     "@farmfe/core": "1.7.5",
     "@farmfe/js-plugin-electron": "1.0.3",
     "@farmfe/js-plugin-postcss": "1.12.0",
