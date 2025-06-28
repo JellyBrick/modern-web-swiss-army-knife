@@ -90,7 +90,7 @@
     "@ffmpeg.wasm/core-st": "0.13.2",
     "@ffmpeg.wasm/main": "0.13.1",
     "@files-ui/react": "1.2.5",
-    "@floating-ui/core": "1.7.1",
+    "@floating-ui/core": "1.7.2",
     "@floating-ui/dom": "1.7.1",
     "@floating-ui/react": "0.27.12",
     "@fluentui/react": "8.123.0",
