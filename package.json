@@ -106,7 +106,7 @@
     "@hey-api/openapi-ts": "0.68.1",
     "@hocuspocus/extension-database": "2.15.3",
     "@hocuspocus/extension-logger": "2.15.3",
-    "@hocuspocus/provider": "2.15.2",
+    "@hocuspocus/provider": "2.15.3",
     "@hocuspocus/server": "2.15.2",
     "@hocuspocus/transformer": "2.15.2",
     "@hono/node-server": "1.14.4",
