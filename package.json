@@ -150,7 +150,7 @@
     "@mui/material": "6.4.12",
     "@mui/system": "6.4.12",
     "@mui/x-charts": "7.29.1",
-    "@mui/x-data-grid": "7.29.7",
+    "@mui/x-data-grid": "7.29.8",
     "@mui/x-date-pickers": "7.29.4",
     "@mui/x-tree-view": "7.29.1",
     "@nanostores/solid": "0.5.0",
