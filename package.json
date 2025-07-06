@@ -217,7 +217,7 @@
     "@solid-primitives/graphql": "2.2.2",
     "@solid-primitives/immutable": "1.1.2",
     "@solid-primitives/intersection-observer": "2.2.2",
-    "@solid-primitives/jsx-tokenizer": "1.1.1",
+    "@solid-primitives/jsx-tokenizer": "1.1.2",
     "@solid-primitives/keyed": "1.5.1",
     "@solid-primitives/map": "0.7.1",
     "@solid-primitives/media": "2.3.1",
