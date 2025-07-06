@@ -221,7 +221,7 @@
     "@solid-primitives/keyed": "1.5.2",
     "@solid-primitives/map": "0.7.2",
     "@solid-primitives/media": "2.3.3",
-    "@solid-primitives/memo": "1.4.2",
+    "@solid-primitives/memo": "1.4.3",
     "@solid-primitives/mouse": "2.1.2",
     "@solid-primitives/mutable": "1.1.1",
     "@solid-primitives/mutation-observer": "1.2.1",
