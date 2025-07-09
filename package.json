@@ -230,7 +230,7 @@
     "@solid-primitives/promise": "1.1.2",
     "@solid-primitives/props": "3.2.2",
     "@solid-primitives/raf": "2.3.2",
-    "@solid-primitives/range": "0.2.2",
+    "@solid-primitives/range": "0.2.3",
     "@solid-primitives/refs": "1.1.1",
     "@solid-primitives/resize-observer": "2.1.1",
     "@solid-primitives/resource": "0.4.2",
