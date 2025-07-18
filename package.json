@@ -54,7 +54,7 @@
     "@dropzone-ui/react": "7.0.4",
     "@egjs/axes": "3.9.2",
     "@egjs/conveyer": "1.8.0",
-    "@egjs/grid": "1.16.0",
+    "@egjs/grid": "1.17.1",
     "@egjs/imready": "1.4.2",
     "@egjs/persist": "2.6.0",
     "@egjs/react-flicking": "4.13.0",
