@@ -57,7 +57,7 @@
     "@egjs/grid": "1.17.1",
     "@egjs/imready": "1.4.2",
     "@egjs/persist": "2.6.0",
-    "@egjs/react-flicking": "4.13.0",
+    "@egjs/react-flicking": "4.14.0",
     "@egjs/react-infinitegrid": "4.12.0",
     "@electron-toolkit/tsconfig": "1.0.1",
     "@emotion/babel-plugin": "11.13.5",
