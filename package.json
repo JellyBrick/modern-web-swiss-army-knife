@@ -264,7 +264,7 @@
     "@storybook/testing-library": "0.2.2",
     "@storybook/types": "8.6.14",
     "@styled/typescript-styled-plugin": "1.0.1",
-    "@suid/icons-material": "0.8.1",
+    "@suid/icons-material": "0.9.0",
     "@suid/material": "0.18.0",
     "@suid/vite-plugin": "0.3.1",
     "@suspensive/jotai": "2.18.13",
