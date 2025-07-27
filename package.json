@@ -355,7 +355,7 @@
     "@vitejs/plugin-legacy": "6.1.1",
     "@vitejs/plugin-react": "4.7.0",
     "@vitejs/plugin-react-swc": "3.11.0",
-    "@wyw-in-js/babel-preset": "0.6.0",
+    "@wyw-in-js/babel-preset": "0.7.0",
     "@wyw-in-js/vite": "0.6.0",
     "ag-grid-community": "33.3.2",
     "ag-grid-react": "33.3.2",
