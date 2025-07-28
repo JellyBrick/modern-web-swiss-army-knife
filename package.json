@@ -366,7 +366,7 @@
     "atropos": "2.0.2",
     "autoprefixer": "10.4.21",
     "autosuggest-highlight": "3.3.4",
-    "axios": "1.9.0",
+    "axios": "1.11.0",
     "babel-plugin-react-compiler": "19.0.0-beta-ebf51a3-20250411",
     "babel-plugin-solid-undestructure": "1.1.0",
     "babel-preset-react": "6.24.1",
