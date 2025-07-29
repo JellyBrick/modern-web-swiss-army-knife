@@ -377,7 +377,7 @@
     "clsx": "2.1.1",
     "cmdk": "1.1.1",
     "color": "5.0.0",
-    "concurrently": "9.1.2",
+    "concurrently": "9.2.0",
     "core-js": "3.42.0",
     "corvu": "0.7.2",
     "create-farm": "0.0.21",
