@@ -395,7 +395,7 @@
     "emittery": "1.2.0",
     "emotion-solid": "2.1.0",
     "es-hangul": "2.3.5",
-    "es-toolkit": "1.38.0",
+    "es-toolkit": "1.39.8",
     "esbuild": "0.25.8",
     "eslint": "9.27.0",
     "eslint-import-resolver-typescript": "3.10.1",
