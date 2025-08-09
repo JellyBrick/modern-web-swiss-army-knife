@@ -397,7 +397,7 @@
     "es-hangul": "2.3.5",
     "es-toolkit": "1.39.8",
     "esbuild": "0.25.8",
-    "eslint": "9.32.0",
+    "eslint": "9.33.0",
     "eslint-import-resolver-typescript": "3.10.1",
     "eslint-plugin-import": "2.32.0",
     "eslint-plugin-prettier": "5.5.4",
