@@ -21,7 +21,7 @@
   "homepage": "https://github.com/JellyBrick/modern-web-swiss-army-knife#readme",
   "overrides": {
     "@ag-grid-community/solid": {
-      "@ag-grid-community/core": "32.3.8"
+      "@ag-grid-community/core": "32.3.9"
     },
     "@vanilla-extract/vite-plugin": {
       "vite": "6.3.5"
@@ -40,8 +40,8 @@
   },
   "dependencies": {
     "@7nohe/openapi-react-query-codegen": "2.0.0-beta.3",
-    "@ag-grid-community/client-side-row-model": "32.3.8",
-    "@ag-grid-community/react": "32.3.8",
+    "@ag-grid-community/client-side-row-model": "32.3.9",
+    "@ag-grid-community/react": "32.3.9",
     "@ag-grid-community/solid": "31.1.1",
     "@ag-grid-community/styles": "33.0.3",
     "@babel/cli": "7.28.0",
