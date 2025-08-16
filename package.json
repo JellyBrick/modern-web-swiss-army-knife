@@ -193,7 +193,7 @@
     "@rjsf/antd": "5.24.12",
     "@rjsf/core": "5.24.12",
     "@rjsf/mui": "5.24.12",
-    "@rnwonder/solid-date-picker": "1.4.8",
+    "@rnwonder/solid-date-picker": "1.5.0",
     "@rollup/plugin-commonjs": "28.0.6",
     "@rollup/plugin-json": "6.1.0",
     "@rollup/plugin-node-resolve": "16.0.1",
