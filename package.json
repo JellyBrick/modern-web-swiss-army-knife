@@ -590,7 +590,7 @@
     "vite-plugin-react": "4.0.1",
     "vite-plugin-solid": "2.11.8",
     "vite-plugin-solid-svg": "0.8.1",
-    "vite-plugin-static-copy": "2.3.1",
+    "vite-plugin-static-copy": "2.3.2",
     "vite-plugin-svgr": "4.3.0",
     "vite-tsconfig-paths": "5.1.4",
     "vitest": "3.2.4",
