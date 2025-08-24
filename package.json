@@ -160,7 +160,7 @@
     "@openapi-qraft/react": "2.6.4",
     "@pdfslick/core": "2.3.0",
     "@playwright/test": "1.54.2",
-    "@preact/signals-react": "3.2.1",
+    "@preact/signals-react": "3.3.0",
     "@radix-ui/react-accordion": "1.2.12",
     "@radix-ui/react-alert-dialog": "1.1.15",
     "@radix-ui/react-aspect-ratio": "1.1.7",
