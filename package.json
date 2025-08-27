@@ -521,7 +521,7 @@
     "remark-gfm": "4.0.1",
     "rollup": "4.48.1",
     "rollup-plugin-dts": "6.2.3",
-    "rooks": "7.14.1",
+    "rooks": "9.0.1",
     "semver": "7.7.2",
     "serve": "14.2.4",
     "shadcn": "2.10.0",
