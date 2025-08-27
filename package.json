@@ -35,7 +35,7 @@
     "electron-vite": {
       "vite": "6.3.5"
     },
-    "electron": "34.5.8",
+    "electron": "37.4.0",
     "pdfjs-dist": "5.4.54"
   },
   "dependencies": {
