@@ -352,7 +352,7 @@
     "@vanilla-extract/rollup-plugin": "1.4.1",
     "@vanilla-extract/sprinkles": "1.6.5",
     "@vanilla-extract/vite-plugin": "5.1.1",
-    "@vitejs/plugin-legacy": "6.1.1",
+    "@vitejs/plugin-legacy": "7.2.1",
     "@vitejs/plugin-react": "4.7.0",
     "@vitejs/plugin-react-swc": "3.11.0",
     "@wyw-in-js/babel-preset": "0.7.0",
