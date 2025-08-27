@@ -153,7 +153,7 @@
     "@mui/x-data-grid": "7.29.9",
     "@mui/x-date-pickers": "7.29.4",
     "@mui/x-tree-view": "7.29.1",
-    "@nanostores/solid": "0.5.0",
+    "@nanostores/solid": "1.1.1",
     "@noonnu/gmarket-sans-medium": "0.1.0",
     "@noonnu/suit-regular": "0.1.0",
     "@openapi-codegen/typescript": "11.0.1",
